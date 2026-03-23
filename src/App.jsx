@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import Toast from "./components/Toast";
 import "./App.css";
 
-const API = "http://localhost:8000";
+const API = "https://ased-hreatcan-phisphingmail-etector-ackend-emanfatim-f94cj8bc.leapcell.dev";
 
 export default function App() {
   const [logs, setLogs] = useState([]);
